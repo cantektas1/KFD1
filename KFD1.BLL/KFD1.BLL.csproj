@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KFD1.CORE\KFD1.CORE.csproj" />
+    <ProjectReference Include="..\KFD1.DTO\KFD1.DTO.csproj" />
+  </ItemGroup>
+
+</Project>
